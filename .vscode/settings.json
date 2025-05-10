@@ -1,0 +1,9 @@
+{
+  "editor.indentSize": "tabSize",
+  "files.associations": {
+    ".htaccess": "plaintext"
+  },
+  "[plaintext]": {
+    "editor.formatOnSave": false
+  }
+}
